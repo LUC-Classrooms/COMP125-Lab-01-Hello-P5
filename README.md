@@ -35,9 +35,8 @@ Open your page again in a separate tab to see the web page output.
 
 If everything is correct, you should see a black circle on the upper left corner of the window, under the "Hello P5!" text.
 
-Don't see it, even though you did everything correctly? It might be that your browser is still looking at an older version of the page. You might need to "Force Reload" the page (Shift-Command-R on Mac/Chrome) 
-
 If so, submit your work on Sakai under "Lab 1 - Hello P5!"
 - download your code from this repository as a.zip file (it will probably be in your "Downloads" folder
 - Submit that .zip archive file plus a link to your repository in the comments
 
+Don't see it, even though you did everything correctly? It might be that your browser is still looking at an older version of the page. You might need to "Force Reload" the page (Shift-Command-R on Mac/Chrome) 
